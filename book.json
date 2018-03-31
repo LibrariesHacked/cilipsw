@@ -1,0 +1,13 @@
+{
+    "title": "CILIP SW AGM",
+    "description": "Presentation to CILIP SW for AGM 6th April 2018",
+    "author": "dave",
+    "plugins": ["chartjs"],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "chartjs": {
+        }
+    }
+}
