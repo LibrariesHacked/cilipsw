@@ -1,6 +1,17 @@
 GIS data
 ========
 
+## Geographic coordinate systems
+
+Wikipedia: [Geographic coordinate systems](https://en.wikipedia.org/wiki/Geographic_coordinate_system)
+
+*A geographic coordinate system is a coordinate system that enables every location on the Earth to be specified by a set of numbers or letters, or symbols...A common choice of coordinates is latitude, longitude and elevation.*
+
+| Coordinate type |  X  |  Y  |
+| --------------- | --- | --- |
+| Longitude and Latitude. | -3.106849 | 51.015344 |
+| Eastings and Northings. | 322454 | 124580 |
+
 ## Points, lines, and polygons
 
 Typically when dealing with geo-spatial data, this will be in the form of Points, Lines, and Polygons.
@@ -21,8 +32,8 @@ Geocoding and reverse geocoding are ways of matching address and location data w
 
 There are many different formats for storing geo-data.  These are a few of them.
 
-| Format | Description | Example |
-| ------ | ----------- | ------- |
+| Format | Description |
+| ------ | ----------- |
 | GeoJSON | JavaScript Object Notation (JSON) style geo data. |
 | Shapefiles | Format developed by ESRI for storing geospatial data.  More than one file! |
 | KML | XML type format for storing geospatial data. Used by Google Earth and Google fusion tables. |

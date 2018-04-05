@@ -15,6 +15,8 @@ There are problems with this though:
 - What if there is a big river between you and a library? It may be the nearest, but it may also be a long round trip to get there.
 - What about different travel types and accessibility? 3 miles on a motorway is very different to 3 miles across a city. Some routes may not be pedestrian.
 
+![Image of river at Topsham](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/routes.png)
+
 **Travel time and real travel distance** is often more important than just straight line distances.
 
 Open Street Map
