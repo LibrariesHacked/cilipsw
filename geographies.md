@@ -5,16 +5,14 @@ The UK has many different geographical boundaries and they are complex!
 
 ![Image of open data advocacy session flipchart notes](https://raw.githubusercontent.com/LibrariesHacked/dgeography-librarydata/master/images/Geographies.png)
 
-Many of these are available to download at the ONS Geoportal.
-
-http://geoportal.statistics.gov.uk/
+Many of these are available to download at the [Office for National Statistics Geoportal](http://geoportal.statistics.gov.uk/)
 
 Libraries in the UK are administered by a mix of County Councils, Metropolitan districts, London boroughs, and Unitary authorities.
 
 Area profiling
 --------------
 
-Within each authority area there are a number of further geographical areas to split the authority.
+These are some common geographies used when profiling areas.
 
 | Area type | Description |
 | --------- | ----------- |
