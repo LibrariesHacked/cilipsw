@@ -3,12 +3,12 @@ Routes and travel
 
 GIS data allows for quick analysis of distance. 
 
-- The library postcode lottery for example groups areas of the country by distance to a library
-- The England Library visualisation creates catchment areas based upon assiging each area to their nearest library
+- The library postcode lottery for example assesses areas of the country by distance to a library
+- The England Library visualisation creates catchment areas based upon assigning each area to a nearest library
 
-This is often seen in analysis of locations of libraries, particularly during times of consultations.
+These 'straight line' distances are often used in analysis of locations of libraries, particularly during times of consultations.
 
-An 'easy' option is to simply plot a radius around each library and ensure the whole authority is with X distance to a library.
+An easy option is to simply plot a radius around each library and ensure the whole authority is with X distance to a library.
 
 There are problems with this though:
 
@@ -22,7 +22,7 @@ There are problems with this though:
 Open Street Map
 ---------------
 
-[Open Street Map](https://www.openstreetmap.org/) is a huge online database of GIS data to create a map of the world. It includes all you would expect on a map such as roads, paths, places, and green spaces.
+[Open Street Map](https://www.openstreetmap.org/) is a huge online database of GIS data to create a map of the world. It includes all you would expect on a map such as roads, paths, places, buildings, and green spaces.
 
 Having open road data means we can do more complex route analysis.
 

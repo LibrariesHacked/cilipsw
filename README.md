@@ -18,7 +18,7 @@ Also see our open data [book](https://librarieswest.gitbooks.io/librarieswest-op
 Why Geography (or GIS)
 ----------------------
 
-Everything happens somewhere. Geography data is becoming increasingly important, because there is so much we can learn from data *about* locations.  Examples include:
+Everything happens somewhere. Geography data is becoming increasingly important, because there is so much we can use from open data *about* locations.  Examples include:
 
 - deprivation statistics and need of areas which include: income, education, work, services;
 - population density and rural/urban split;

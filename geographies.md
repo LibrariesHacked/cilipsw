@@ -3,13 +3,13 @@ Geographical boundaries in the UK
 
 The UK has many different geographical boundaries and they are complex!
 
-![Image of open data advocacy session flipchart notes](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/Geographies.png)
+![Image of UK statistical geographies](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/Geographies.png)
 
 Many of these are available to download at the [Office for National Statistics Geoportal](http://geoportal.statistics.gov.uk/)
 
 Libraries in the UK are administered by a mix of County Councils, Metropolitan districts, London boroughs, and Unitary authorities.
 
-![Image of open data advocacy session flipchart notes](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/local-government-hierarchy.gif)
+![Image of UK local authority hierarchy](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/local-government-hierarchy.gif)
 
 Area profiling
 --------------
