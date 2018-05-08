@@ -26,17 +26,6 @@ Geocoding and reverse geocoding are ways of matching address and location data w
 
 - **Geocoding:** Address -> Geo-coordinates.  Example: Putting a library on a map from it's address.
 - **Reverse geocoding:** Geo-coordinates -> Address.  Example: taking coordinates retrieved from GPS to determine current location.
-- **Geofencing:**  A feature in a software program that uses the global positioning system (GPS) or radio frequency identification (RFID) to define geographical boundaries. A geofence is a virtual barrier.
-
-## File formats
-
-There are many different formats for storing geo-data.  These are a few of them.
-
-| Format | Description |
-| ------ | ----------- |
-| GeoJSON | JavaScript Object Notation (JSON) style geo data. |
-| Shapefiles | Format developed by ESRI for storing geospatial data.  More than one file! |
-| KML | XML type format for storing geospatial data. Used by Google Earth and Google fusion tables. |
 
 ## GIS software
 

@@ -31,3 +31,5 @@ Having open road data means we can do more complex route analysis.
 - Historic traffic data can be used to give further indications of travel times.
 
 Open Street Map data is used in [Open Route Service](https://openrouteservice.org/), open source and developed by the University of Heidelberg. Free APIs are also included to calculate routes and route times for different travel types.
+
+With this data we can look at travel times around a library for different travel types: walking, driving, cycling, etc.

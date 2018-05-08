@@ -25,6 +25,6 @@ So, what associated data can be gained from using these area definitions? A few 
 
 | Data | Area | Description |
 | ---- | ---- | ----------- |
-| **Deprivation Indices** | LSOA | The 2015 deprivation indices are comparative levels of deprivation for all Lower Layer Super Output Areas (LSOAs) in England.  These are by deprivation type, for example health, education, and income.  An index of multiple deprivation (IMD) summarises all deprivation types to produce an overall ranking.  The 32,844 ranked areas are then split into deciles to give a single 1-10 value for each area (1 being within the most deprived, 10 within the least). |
+| **Deprivation Indices** | LSOA | Deprivation indices are comparative levels of deprivation for Lower Layer Super Output Areas (LSOAs). These are by deprivation type, for example health, education, and income. An index of multiple deprivation (IMD/WIMD) summarises all deprivation types to produce an overall ranking. |
 | **Estimated population** | LSOA | Annual mid-year population estimates are released by the ONS, broken down by age and gender and released at Lower Super Output Level. |
 | **Rural/Urban** | Output Area | There are classifications of each area of 'rurality' ranging from 'Major Conurbation' to 'Hamlets and Isolated Dwellings in a Sparse Setting' |

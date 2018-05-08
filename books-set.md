@@ -7,7 +7,7 @@ A web application called [Mappit](https://www.mappit.net/bookmap/#selected=/book
 
 ![Image of books set in Exeter](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/books-exeter.png)
 
-You can see books published in your local area. Or maybe places your're visiting.
+You can see books that are published in your local area. Or maybe places your're visiting.
 
 This uses crowdsourced data from [Open Library](https://openlibrary.org) and [LibraryThing](https://www.librarything.com/).
 

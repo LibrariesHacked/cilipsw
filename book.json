@@ -1,6 +1,6 @@
 {
-    "title": "CILIP SW AGM",
-    "description": "Presentation to CILIP SW for AGM 6th April 2018",
+    "title": "Geography",
+    "description": "Presentation on geography and library data",
     "author": "dave",
     "plugins": ["chartjs"],
     "pluginsConfig": {

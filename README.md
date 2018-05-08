@@ -11,9 +11,9 @@ Half-time **Library Systems Officer** LibrariesWest - do things with maps and ma
 Libraries West
 --------------
 
-We have published our Open Data at https:///www.librarieswest.org.uk/opendata
+We hare publishing our Open Data at https:///www.librarieswest.org.uk/opendata
 
-Also see our open data [book](https://librarieswest.gitbooks.io/librarieswest-open-data/).
+Also see our [open data book](https://librarieswest.gitbooks.io/librarieswest-open-data/).
 
 Why Geography (or GIS)
 ----------------------
@@ -33,4 +33,3 @@ Location vs. Place
 ------------------
 
 What is the difference between location and place?  We tend to use *'Location'* when talking about exact defined points or areas.  For example, a local government boundary, or the location of a library.  *'Place'* is usually more indefinable.  It may be 'the North', or 'Abroad', or 'Home'.
-
