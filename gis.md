@@ -1,5 +1,5 @@
-GIS data
-========
+GIS
+===
 
 ## Geographic coordinate systems
 
