@@ -11,14 +11,16 @@ Half-time **Library Systems Officer** LibrariesWest - do things with maps and ma
 Libraries West
 --------------
 
-We hare publishing our Open Data at https:///www.librarieswest.org.uk/opendata
+We are publishing our Open Data at https:///www.librarieswest.org.uk/opendata
 
 Also see our [open data book](https://librarieswest.gitbooks.io/librarieswest-open-data/).
 
 Why Geography (or GIS)
 ----------------------
 
-Everything happens somewhere. Geography data is becoming increasingly important, because there is so much we can use from open data *about* locations.  Examples include:
+Everything happens somewhere.
+
+Geography data is becoming increasingly important, because there is so much we can use *about* locations.  Examples include:
 
 - deprivation statistics and need of areas which include: income, education, work, services;
 - population density and rural/urban split;

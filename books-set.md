@@ -3,9 +3,9 @@ Book set in a location
 
 Data that includes geography and libraries is always fun!
 
-A web application called [Mappit](https://www.mappit.net/bookmap/#selected=/bookmap/places/90/) creates a 'Global Book Map'.
+A web application called [Mappit](https://www.mappit.net/bookmap/#selected=/bookmap/places/90/) creates a **'Global Book Map'**.
 
-![Image of books set in Exeter](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/books-exeter.png)
+![Image of books set in Aberystwyth](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/books-exeter.png)
 
 You can see books that are published in your local area. Or maybe places your're visiting.
 

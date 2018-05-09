@@ -3,7 +3,7 @@ Routes and travel
 
 GIS data allows for quick analysis of distance. 
 
-- The library postcode lottery for example assesses areas of the country by distance to a library
+- The library postcode application assesses areas by distance to a library
 - The England Library visualisation creates catchment areas based upon assigning each area to a nearest library
 
 These 'straight line' distances are often used in analysis of locations of libraries, particularly during times of consultations.

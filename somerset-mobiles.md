@@ -1,7 +1,9 @@
 Somerset Mobiles
 ================
 
-**Note: one mobile library no longer exists!**.
+Mobile library daata is fascinating. 
+
+Some locations have no real address data. 'Opposite the Willow Tree'!
 
 Taking open street map route data I wanted to visualise the routes that I would expect mobile libraries to take.
 
