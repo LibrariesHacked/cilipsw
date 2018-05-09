@@ -14,4 +14,6 @@ Library Finder
 
 Taking the 3D building data, the Plymouth Library Finder project is designed to highlight the library building rather than put points on a map. And use the opening hours and services to provide some interactive functionality.
 
+![Image of a library in Plymouth](https://raw.githubusercontent.com/LibrariesHacked/geography-librarydata/master/images/plymouth.png)
+
 Demo: https://plymouth.librarydata.uk
