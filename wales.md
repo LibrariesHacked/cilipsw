@@ -10,4 +10,4 @@ Library Finder
 
 Taking the Wales Library data, this project is designed to list the libraries on the map and also show driving/walking/cycling times at 5 minute intervals around each library.
 
-Demo: https://wales.librarydata.uk
+Demo: https://wales-librarydata.herokuapp.com
